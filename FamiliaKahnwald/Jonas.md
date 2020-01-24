@@ -1,5 +1,9 @@
 # Jonas Kahnwald / Adam
 
+| Joven | Adulto
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/6/64/Profile_-_Jonas_2019.jpg/revision/latest/scale-to-width-down/350?cb=20171226150453" alt="Jonas Joven"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/9/9a/Profile_-_Jonas_Future.jpg/revision/latest/scale-to-width-down/350?cb=20171226150454" alt="Jonas Adulto">
+
 ## Familia
 
 * Hijo de Michael y Hannah

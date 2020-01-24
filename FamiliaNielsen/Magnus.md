@@ -1,5 +1,9 @@
 # Magnus Nielsen
 
+| Joven | Adulto
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/5/58/Magnus.png/revision/latest/scale-to-width-down/350?cb=20171226012232" alt="magnus Joven"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/1/14/Magnus_Adult.JPG/revision/latest/scale-to-width-down/350?cb=20190624144810" alt="Magnus Adulto">
+
 ## Familia
 
 * Hijo de Ulrich y Khaterin

@@ -1,5 +1,9 @@
 # Brend Doppler
 
+| Anciano | Adulto
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/2/24/Profile_-_Bernd_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180113195921" alt="Brend Anciano"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/9/91/Profile_-_Bernd_1953.JPG/revision/latest/scale-to-width-down/350?cb=20180113195953" alt="Brend Adulto">
+
 ## Familia
 
 * Esposo de Greta

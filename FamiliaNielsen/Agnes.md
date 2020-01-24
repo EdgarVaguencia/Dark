@@ -1,5 +1,9 @@
 # Agnes Nielsen
 
+| Adulto | Joven
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/5/57/Profile_-_Agnes.jpg/revision/latest/scale-to-width-down/350?cb=20180113194901" alt="Agnes Adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/e/e8/Agnes_nielsen_1921.png/revision/latest?cb=20190701113843" alt="Agnes Joven">
+
 ## Familia
 
 * Hija de Erna

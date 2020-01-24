@@ -1,5 +1,9 @@
 # Claudia Tiedman
 
+| Anciano | Adulto | Joven
+| --- | --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/3/34/Claudia.png/revision/latest/scale-to-width-down/350?cb=20171226013853" alt="Claudia anciano"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/8/81/Profile_-_Claudia_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180120101235" alt="Claudia Adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/b/b1/Profile_-_Claudia_1953.JPG/revision/latest/scale-to-width-down/350?cb=20180120101450" alt="Claudia joven">
+
 ## Familia
 
 * Hija de Egon y Doris

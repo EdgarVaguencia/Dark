@@ -1,5 +1,9 @@
 # Bartosz Tiedman
 
+| Joven
+| ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/8/8a/Bartosz.png/revision/latest/scale-to-width-down/350?cb=20171226012938" alt="Bartosz Joven">
+
 ## Familia
 
 * Hijo de Aleksander y Regina

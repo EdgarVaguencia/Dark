@@ -1,5 +1,10 @@
 # Noah Nielsen
 
+| Adulto | Joven
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/4/4e/Portal_%E2%80%93_Noah.jpg/revision/latest/scale-to-width-down/350?cb=20171203223020" alt="Noah adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/5/54/Noah-young.PNG/revision/latest/scale-to-width-down/350?cb=20190622163012" alt="Noah Joven">
+
+
 ## Familia
 
 * Hijo de Erna

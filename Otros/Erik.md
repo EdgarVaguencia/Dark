@@ -1,5 +1,9 @@
 # Erik Obendorf
 
+| Joven
+| ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/4/43/Erik_Obendorf_Missing_Poster.jpg/revision/latest?cb=20171113012631" alt="Erik Joven">
+
 ## Familia
 
 * Hijo de Jürgen Obendorf

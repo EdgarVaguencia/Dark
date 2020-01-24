@@ -1,5 +1,9 @@
 # Clausen Köhler
 
+| Adulto
+| ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/c/c0/Clausen.PNG/revision/latest/scale-to-width-down/350?cb=20190622155900" alt="Clausen Adulto">
+
 ## Familia
 
 * Hermano de Aleksader Köhler

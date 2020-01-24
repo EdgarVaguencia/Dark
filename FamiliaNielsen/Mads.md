@@ -1,5 +1,9 @@
 # Mads Nielsen
 
+| Joven
+| ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/4/46/Mads_1986.jpg/revision/latest?cb=20180110100230" alt="Mads Joven">
+
 ## Familia
 
 * Hijo de Tronte

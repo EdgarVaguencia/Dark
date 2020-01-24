@@ -1,5 +1,9 @@
 # H.G. Tannhaus
 
+| Anciano | Adulto
+| ---| ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/4/42/Hgtannhaus.png/revision/latest/scale-to-width-down/350?cb=20180114162827" alt="Tannhaus anciano"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/b/b4/Hgtannhaus1953.png/revision/latest/scale-to-width-down/350?cb=20180114162827" alt="Tannhaus Adulto">
+
 ## Familia
 
 * Tutor de Charlotte

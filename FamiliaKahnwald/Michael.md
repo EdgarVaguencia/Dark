@@ -1,5 +1,9 @@
 # Michael Kahnwald / Mikkel Nielsen
 
+| Adulto | Joven
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/6/64/Closeup_-_Michael.jpg/revision/latest/scale-to-width-down/350?cb=20171227115304" alt="Michael Adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/4/4b/Closeup_-_Mikkel.jpg/revision/latest/scale-to-width-down/350?cb=20180110095055" alt="Michael joven">
+
 ## Familia
 
 * Hijo adoptivo de Ines

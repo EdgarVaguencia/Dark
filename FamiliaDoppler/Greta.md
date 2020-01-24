@@ -1,5 +1,9 @@
 # Greta Doppler
 
+| Adulto
+| ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/4/43/Profile_-_Greta.JPG/revision/latest/scale-to-width-down/350?cb=20180120102252" alt="Greta Adulto">
+
 ## Familia
 
 * Esposa de Brend

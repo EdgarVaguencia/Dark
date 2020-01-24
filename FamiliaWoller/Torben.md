@@ -1,5 +1,9 @@
 # Torben Wöller
 
+| Adulto
+| ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/b/b6/2x0810Torben.jpg/revision/latest/scale-to-width-down/350?cb=20190730042410" alt="Torben Adulto">
+
 ## Familia
 
 * Hermano de Benni

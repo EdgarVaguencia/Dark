@@ -1,5 +1,9 @@
 # Egon Tiedman
 
+| Ancino | Adulto
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/9/9d/Egon1986.png/revision/latest?cb=20180110104549" alt="Egon anciano"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/2/2a/Egon1953.png/revision/latest?cb=20180110104617" alt="Egon Adulto">
+
 ## Familia
 
 * Esposo de Doris

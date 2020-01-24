@@ -1,5 +1,9 @@
 # Katherin Nielsen
 
+| Adulto | Joven
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/8/8f/Profile_%E2%80%93_Katharina.jpg/revision/latest/scale-to-width-down/350?cb=20171113212202" alt="Katherin Adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/c/c9/Profile_Katharina_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180101125352" alt="Katherin Joven">
+
 ## Familia
 
 * Esposa de Ulrich

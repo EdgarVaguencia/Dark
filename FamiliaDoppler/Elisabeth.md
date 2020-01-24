@@ -1,10 +1,14 @@
 # Elisabeth Doppler
 
+| Joven | Adulto
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/c/cf/Elisabeth_Doppler.jpg/revision/latest/scale-to-width-down/350?cb=20180114151126" alt="Elisabeth Joven"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/a/a4/Elisabeth_Doppler_future2052.jpg/revision/latest/scale-to-width-down/350?cb=20190622191036" alt="Elisabeth Adulto">
+
 ## Familia
 
 * Hija de Petter y Charlotte
 * Esposa de Noah
-* Madre de Elisabeth 
+* Madre de Charlotte 
 
 ## Datos curiosos
 

@@ -1,8 +1,12 @@
 # Hannah Kahnwald
 
+| Adulto | Joven
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/0/0d/Hannah.png/revision/latest/scale-to-width-down/350?cb=20171207020113" alt="Hannah Adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/6/6a/Hannah_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180101123036" alt="Hannah Joven">
+
 ## Familia
 
-* Hija de Daniel
+* Hija de Sebastian Krüger
 * Esposa de Michel
 * Madre de Jonas
 

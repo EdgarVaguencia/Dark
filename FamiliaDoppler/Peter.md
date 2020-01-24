@@ -1,5 +1,9 @@
 # Peter Doppler
 
+| Adulto
+| ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/5/57/Dark_1x01_-_Peter_Doppler.jpg/revision/latest/scale-to-width-down/350?cb=20171207002215" alt="Peter Adulto">
+
 ## Familia
 
 * "Hijo" de Helge

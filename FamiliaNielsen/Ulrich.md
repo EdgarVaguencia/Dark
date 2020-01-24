@@ -1,5 +1,9 @@
 # Ulrich Nielsen
 
+| Adulto | Joven | Anciano
+| --- | --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/c/c6/Profile_-_Ulrich_2019.jpg/revision/latest/scale-to-width-down/350?cb=20171226151948" alt="Ulrich Adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/b/b3/Profile_-_Ulrich_1986.jpg/revision/latest/scale-to-width-down/350?cb=20171226151947" alt="Ulrich joven"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/c/c8/Profile_-_Ulrich_1987.png/revision/latest/scale-to-width-down/350?cb=20190623164841" alt="Ulrich Anciano">
+
 ## Familia
 
 * Hijo de Tronte y Jana

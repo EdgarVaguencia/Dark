@@ -1,5 +1,9 @@
 # Regina Tiedman
 
+| Adulto | Joven
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/b/b1/Closeup_Regina.jpg/revision/latest/scale-to-width-down/350?cb=20180118163939" alt="Regina Adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/a/a1/113705_18a5a42c69ab5290afaeffe79f8a8222.jpg/revision/latest/scale-to-width-down/350?cb=20180118163959" alt="Regina Joven">
+
 ## Familia
 
 * Hija de Claudia

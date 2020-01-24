@@ -1,5 +1,9 @@
 # Aleksander Tiedmann / Aleksander Köhler / Boris Niewald
 
+| Adulto | Joven
+| --- | ---
+| <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/8/81/Aleksander.png/revision/latest/scale-to-width-down/350?cb=20171226013306" alt="Aleksander Adulto"> | <img src="https://vignette.wikia.nocookie.net/dark-netflix/images/8/8c/Boris1986.png/revision/latest/scale-to-width-down/350?cb=20180114215833" alt="Aleksander Joven">
+
 ## Familia
 
 * Esposo de Regina
