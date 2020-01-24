@@ -1,6 +1,8 @@
 # Dark
 
-Datos relevantes sobre los personajes de la serie de Dark previo a la última temporada 
+Datos relevantes sobre los personajes de la serie de Dark previo a la última temporada
+
+<img src="https://camo.githubusercontent.com/4eb0c576f826d6bf8f72f4895a714d2e67eedb7b/68747470733a2f2f64673331737a3367777277616e2e636c6f756466726f6e742e6e65742f706f737465722f3333343832342f313234383831372d302d6f7074696d697a65642e6a7067" alt="Dark">
 
 ## Contenido
 
