@@ -22,4 +22,8 @@
 
 ### 1986
 
+* Tiene un romance con Claudia
+
 ### 2019
+
+* Es contactado por claudia (viajera) y junto con Petter tiene un diario de lo que ocurrira siendo uno de ellos la aprtura de un portal en el que aparece Mads y lo dejan en el bosque.

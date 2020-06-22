@@ -16,8 +16,9 @@
 
 ### 1953
 
+* Conoce a Urlich donde este deja su telefono
 * Es contactado por Claudia (2019) para hacer una maquina la cual le entrega los planos.
 
 ### 1986
 
-* Llega Jonas (2053) y al intentar que repare la maquina que trae en su lugar le da la que acaba de terminar.
+* Llega Jonas (2053) y despues de platicar sibre vijes en el tiempo este le pide que repare la maquina con el proposito de destruir el gusano del tiempo generado en as cuevas por un accidente en la planta, lugar le da la que acaba de terminar.

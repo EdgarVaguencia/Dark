@@ -23,4 +23,4 @@
 
 ### 2019
 
-* 
+* Le comenta a Urlich que previo a la desaparicionde Mads vio un sacerdote junto con una persona con una cicatriz y esta misma persona la volvio a ver antes de la desaparicion de Mikkel diciendo que no ha pasado el tiempo para esta persona.

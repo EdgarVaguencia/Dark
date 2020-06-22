@@ -14,3 +14,5 @@
 ## Epocas
 
 ### 1953
+
+* Junto con su esposo rentan cuartos de su casa donde llegan a vivir Agnes y Tronte

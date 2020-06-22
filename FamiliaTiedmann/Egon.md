@@ -21,4 +21,4 @@
 ### 1896
 
 * Vulve a buscar a Ulrich que se encuentra dentro de un manicomio.
-* Muere después de que tiene un disgunto con Claudia por lo que entre jalones elo cae.
+* Muere después de que tiene un disgunto con Claudia por lo que entre jalones este cae.

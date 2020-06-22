@@ -16,4 +16,5 @@
 
 ### 2019/2020
 
+* En la busqueda de la droga que tenia escondida Erik en las cuevas se encontraba un telefono, mediante el cual es contactado por Noah y lo cita en el bosque
 * Junto con Magnus y Franziska es llevado por Jonas a viajar en el tiempo previo a la explosión de la planta.

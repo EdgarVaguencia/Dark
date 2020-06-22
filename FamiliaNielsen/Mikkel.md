@@ -15,6 +15,7 @@
 ### 1986
 
 * Al llegar a esta epoca es adoptado por Ines para así crecer como Michael
+* Dentro del hospital conoce a Hanna
 
 ### 2019
 

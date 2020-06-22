@@ -22,4 +22,4 @@
 ### 1986/1987
 
 * Siendo director ocurre un suceso dentro de la planta y al hacer pruebas sobre el material involucrado sabe de la existencia "La particula de Dios" por lo que para evitar un posible cierre oculta los barriles dentro de las cuevas.
-* Los resultados de los analisis se los entrega a Claudia (Adulta) al momento de entregar el puesto.
+* Los resultados de los analisis se los entrega a Claudia (Adulta) al momento de entregar el puesto y la lleva donde escondieron los barriles.

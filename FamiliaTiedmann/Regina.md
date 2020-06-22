@@ -17,6 +17,7 @@
 ### 1986
 
 * Conoce a Aleksarder luego que este la defiende de Ulrich y Khaterin.
+* Es la ultima en ver a Mads quien la "defendia" y la acompañaba por el bosque
 
 ### 2019
 

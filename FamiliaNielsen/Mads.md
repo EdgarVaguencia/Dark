@@ -16,7 +16,7 @@
 
 ### 1986
 
-* Desaparece de Winden
+* Desaparece de Winden (9 de octubre de 1986)
 
 ### 2019
 

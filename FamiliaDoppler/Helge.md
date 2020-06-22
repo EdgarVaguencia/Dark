@@ -19,4 +19,10 @@
 
 ### 1986
 
+* Al saber que Claudia sera la nueva directora de la planta, este le da un regalo siendo el libro "Viajes en el Tiempo" escrito por H.G Tannhaus.
+* Junto con Noah realizan experimientos en el bunker y es el encargado de llevar y desaparecer los niños.
+* Egon en la investigacion sobre la desaparicion de Mads, va a la planta y pregunta sobre los rondines y al ser Helge encargado del turno es "citado" a interrogatorio pero nunca se presenta.
+
 ### 2019
+
+* 

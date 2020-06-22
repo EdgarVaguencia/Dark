@@ -32,7 +32,11 @@
 
 ### 2019
 
+* Encuentra en el cobertizo de su padre el mapa de las cuevas e intenta ir pero se pierde el cual es modificado por Jonas (viajero)
+
 #### Viajero (2019)
+
+* Se lleva a Mikkel por las cuevas para poder que este se pierda y viaje en el tiempo
 
 ### 2053
 

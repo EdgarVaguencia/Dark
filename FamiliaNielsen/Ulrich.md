@@ -16,7 +16,7 @@
 
 ### 1953
 
-* Al viajar por las cuavas va en busca de Helge e intenta matarlo pero solo lo deja inconsiente y lo abandona en el bunker.
+* Al viajar por las cuevas siguiendo a helge anciano (lo ve que escapa del asilo) en su busca encuentra al joven y en su intento de  matarlo, solo lo deja inconsiente y lo abandona en el bunker.
 
 ### 1986
 
@@ -31,3 +31,4 @@
 * Como policia se encuentra en busca de Erik.
 * Su hijo desaparece y tiene de sospechoso a Helge.
 * Intenta atrapar a Helge pero se pierde en las cuevas lo que lo lleva a viajar en el tiempo hasta 1953.
+* Reconoce que el niño encontrado es su hermano Mads desaparecido en 1986 pero no entiende la manera en que pudo conservarse el cuerpo
