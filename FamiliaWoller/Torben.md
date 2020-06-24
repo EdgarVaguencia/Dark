@@ -16,3 +16,4 @@
 
 * Policia que tiene relacion con Aleksander y el accidente de la planta
 * Es el encargado de esconder los contenedores, los cuales se los da a su hermano.
+* Muere el 27/06/2020

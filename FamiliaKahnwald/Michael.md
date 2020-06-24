@@ -19,6 +19,7 @@
 ### 1986
 
 #### Viajero (Mikkel 2019)
+
 * Despierta dentro de las cuevas despues de Jonas lo metio dentro.
 * Se reencuentra con su padre (Ulrich) intentando llevarlo a las cuevas son atrapados por Egon y es llevado con Innes.
 
@@ -27,4 +28,4 @@
 * Intento evitar el contacto con los Nielsen, en una ocación Mikkel entra al baño de su casa y se ven defrente
 * Jonas (Viajero 2019) lo visita e intentar convencer de evitar el suicidio lo que este se sorprende y no sabe de lo que habla.
 * Al respecto de esta visita le dice a Jonas que en realidad él fué quien esa noche lo llevo a las cuevas.
-* Se suicida en el ático de su casa, dejando una carta a Jonas que no debe abrirse si no tiempo despues.
+* Se suicida en el ático de su casa (21/06/19), dejando una carta a Jonas que no debe abrirse si no tiempo despues.

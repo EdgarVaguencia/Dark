@@ -15,6 +15,8 @@
 
 ### 2019
 
+* Muere el 27/06/2020
+
 ### Viajera (???)
 * El que pareceria el final de Jonas (2019) llega una Martha y se lo lleva y solo dice "La pregunta no es de cuando si no de que mundo"
 

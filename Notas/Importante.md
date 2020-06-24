@@ -2,10 +2,10 @@
 
 ## El calendario de Hannah
 
-El calendario esta en casa de los Khahnwald donde Hannah tacha cada uno de los díás que se encuentra desaparecido
+El calendario esta en casa de los Khahnwald donde Hannah tacha cada uno de los díás en que Jonas se encuentra desaparecido
 
-1. Jonas en el año 2052 no se encuentra tachado hasta el 20 de junio y circulado el 27
-1. Previo a que Hannah intente suicidarse va al calendario y tacha el día 21 y posterior llega Adam y circula el día 27 que es el día del apocalipsis
+1. Jonas en el año 2052 despierta en la casa y se encuentra tachado hasta el 20 de junio y circulado el 27
+1. Previo a que Hannah intente suicidarse va al calendario y tacha el día 21, posterior llega Adam y circula el día 27 que es el día del apocalipsis
 
 Entonces, parece que existen dos "universos" o estamos viendo dos líneas del tiempo, en una Jonas regresa el 20 y en otra el 21. Lo que no cambia es el día del apocalipsis.
 
@@ -29,7 +29,7 @@ Hay dos eventos que muestran el pizarron de la escula y si vemos la foto del cen
 ## La maquina del tiempo
 
 1. Tannhaus termina la maquina en 1986
-1. Se la lleva Jonas en 1986 para que la repare pero Tannhaus le menciona que no sabe repararla, mejor le da la que acaba de terminar.
+1. Jonas llega 1986 para que la repare pero Tannhaus le menciona que no sabe repararla, mejor le da la que acaba de terminar.
 
 ### ¿Cuantas maquinas existen?
 

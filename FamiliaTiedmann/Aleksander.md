@@ -24,3 +24,4 @@
 
 * Es director de la Planta Nuclear la cual será cerrada en el año 2020.
 * En complicidad con Torben mantienen en secreto los barriles y posterior los entierran dentro de la planta.
+* Muere el 27/06/2020
