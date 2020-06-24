@@ -11,13 +11,14 @@
 ## Datos curiosos
 
 * Al parecer tuvo que ver con un asesinato en el año 1986 en otra ciudad.
-* Toma la identidad de Aleksander Köhler
+* Toma la identidad de Aleksander Köhler (Nacido el 21/01/1965 mide 175)
+* Su pasaporte dice Boris Niewald (expedido 1983, mide 172)
 
 ## Epocas
 
 ### 1986
 
-* Aparece en el bosque huyendo (aparentemente en otra epoca) donde defiende a Regina por que la Ulrich y Khaterin le reclaman de haber acusado a Ulrich a la policia
+* Aparece en el bosque (11/11/86) huyendo ~~(aparentemente en otra epoca)~~ donde defiende a Regina por que la Ulrich y Khaterin le reclaman de haber acusado a Ulrich a la policia
 
 ### 2019/2020
 
